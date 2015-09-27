@@ -1,0 +1,81 @@
+[submodule "git@github.com:h4ck3rm1k3/application.git"]
+	path = git@github.com:h4ck3rm1k3/application.git
+	url = ./application
+[submodule "application"]
+	path = application
+	url = git@github.com:h4ck3rm1k3/application.git
+[submodule "application_git"]
+	path = application_git
+	url = git@github.com:h4ck3rm1k3/application_git.git
+[submodule "application_python"]
+	path = application_python
+	url = git@github.com:h4ck3rm1k3/application_python.git
+[submodule "apt"]
+	path = apt
+	url = git@github.com:h4ck3rm1k3/apt.git
+[submodule "chef-sugar"]
+	path = chef-sugar
+	url = git@github.com:h4ck3rm1k3/chef-sugar.git
+[submodule "database"]
+	path = database
+	url = git@github.com:h4ck3rm1k3/database.git
+[submodule "openssl"]
+	path = openssl
+	url = git@github.com:h4ck3rm1k3/openssl.git
+[submodule "poise"]
+	path = poise
+	url = git@github.com:h4ck3rm1k3/poise.git
+[submodule "poise-boiler"]
+	path = poise-boiler
+	url = git@github.com:h4ck3rm1k3/poise-boiler.git
+[submodule "poise-languages"]
+	path = poise-languages
+	url = git@github.com:h4ck3rm1k3/poise-languages.git
+[submodule "poise-python"]
+	path = poise-python
+	url = git@github.com:h4ck3rm1k3/poise-python.git
+[submodule "poise-service"]
+	path = poise-service
+	url = git@github.com:h4ck3rm1k3/poise-service.git
+[submodule "postgresql"]
+	path = postgresql
+	url = git@github.com:h4ck3rm1k3/postgresql.git
+[submodule "build-essential"]
+	path = build-essential
+	url = git@github.com:h4ck3rm1k3/build-essential.git
+[submodule "chef_handler"]
+	path = chef_handler
+	url = git@github.com:h4ck3rm1k3/chef_handler.git
+[submodule "git"]
+	path = git
+	url = git@github.com:h4ck3rm1k3/git.git
+[submodule "gunicorn"]
+	path = gunicorn
+	url = git@github.com:h4ck3rm1k3/gunicorn.git
+[submodule "python"]
+	path = python
+	url = git@github.com:h4ck3rm1k3/python
+[submodule "rbac"]
+	path = rbac
+	url = git@github.com:h4ck3rm1k3/rbac
+[submodule "resource-control"]
+	path = resource-control
+	url = git@github.com:h4ck3rm1k3/resource-control
+[submodule "smf"]
+	path = smf
+	url = git@github.com:h4ck3rm1k3/smf
+[submodule "supervisor"]
+	path = supervisor
+	url = git@github.com:h4ck3rm1k3/supervisor
+[submodule "yum-epel"]
+	path = yum-epel
+	url = git@github.com:h4ck3rm1k3/yum-epel
+[submodule "ipaddr_extensions"]
+	path = ipaddr_extensions
+	url = git@github.com:h4ck3rm1k3/ipaddr_extensions.git
+[submodule "paths"]
+	path = paths
+	url = git@github.com:h4ck3rm1k3/paths.git
+[submodule "yum"]
+	path = yum
+	url = git@github.com:h4ck3rm1k3/yum.git
