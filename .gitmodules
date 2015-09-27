@@ -79,3 +79,114 @@
 [submodule "yum"]
 	path = yum
 	url = git@github.com:h4ck3rm1k3/yum.git
+[submodule "berkshelf"]
+	path = berkshelf
+	url = git@github.com:h4ck3rm1k3/berkshelf.git
+[submodule "chef"]
+	path = chef
+	url = git@github.com:h4ck3rm1k3/chef.git
+[submodule "chefspec"]
+	path = chefspec
+	url = git@github.com:h4ck3rm1k3/chefspec.git
+[submodule "dep-selector"]
+	path = dep-selector
+	url = git@github.com:h4ck3rm1k3/dep-selector.git
+[submodule "ffi-yajl"]
+	path = ffi-yajl
+	url = git@github.com:h4ck3rm1k3/ffi-yajl.git
+[submodule "halite-2"]
+	path = halite-2
+	url = git@github.com:h4ck3rm1k3/halite-2.git
+[submodule "knife-github-cookbooks"]
+	path = knife-github-cookbooks
+	url = git@github.com:h4ck3rm1k3/knife-github-cookbooks.git
+[submodule "knife-spec"]
+	path = knife-spec
+	url = git@github.com:h4ck3rm1k3/knife-spec.git
+[submodule "knife-vagrant2"]
+	path = knife-vagrant2
+	url = git@github.com:h4ck3rm1k3/knife-vagrant2.git
+[submodule "rabbitmq-formula"]
+	path = rabbitmq-formula
+	url = git@github.com:h4ck3rm1k3/rabbitmq-formula.git
+[submodule "rubygems"]
+	path = rubygems
+	url = git@github.com:h4ck3rm1k3/rubygems.git
+[submodule "rspec-core"]
+	path = rspec-core
+	url = git@github.com:rspec/rspec-core.git
+[submodule "rspec-mocks"]
+	path = rspec-mocks
+	url = git@github.com:rspec/rspec-mocks.git
+[submodule "rspec-support"]
+	path = rspec-support
+	url = git@github.com:rspec/rspec-support.git
+[submodule "rspec"]
+	path = rspec
+	url = git@github.com:rspec/rspec.git
+[submodule "hammertime"]
+	path = hammertime
+	url = git@github.com:avdi/hammertime.git
+[submodule "chef-provisioning-aws"]
+	path = chef-provisioning-aws
+	url = git@github.com:chef/chef-provisioning-aws.git
+[submodule "chef-provisioning"]
+	path = chef-provisioning
+	url = git@github.com:chef/chef-provisioning.git
+[submodule "chef-server"]
+	path = chef-server
+	url = git@github.com:chef/chef-server.git
+[submodule "dep-selector-libgecode"]
+	path = dep-selector-libgecode
+	url = git@github.com:chef/dep-selector-libgecode.git
+[submodule "knife-ec2"]
+	path = knife-ec2
+	url = git@github.com:chef/knife-ec2.git
+[submodule "mixlib-config"]
+	path = mixlib-config
+	url = git@github.com:chef/mixlib-config.git
+[submodule "ohai"]
+	path = ohai
+	url = git@github.com:chef/ohai.git
+[submodule "omnibus"]
+	path = omnibus
+	url = git@github.com:chef/omnibus.git
+[submodule "flaskapp"]
+	path = flaskapp
+	url = git@github.com:evandhoffman/flaskapp.git
+[submodule "ffi"]
+	path = ffi
+	url = git@github.com:ffi/ffi.git
+[submodule "knife-server"]
+	path = knife-server
+	url = git@github.com:fnichol/knife-server.git
+[submodule "fog-aws"]
+	path = fog-aws
+	url = git@github.com:fog/fog-aws.git
+[submodule "knife-vagrant"]
+	path = knife-vagrant
+	url = git@github.com:garrettux/knife-vagrant.git
+[submodule "knife-zero"]
+	path = knife-zero
+	url = git@github.com:higanworks/knife-zero.git
+[submodule "yajl"]
+	path = yajl
+	url = git@github.com:lloyd/yajl.git
+[submodule "knife-solo"]
+	path = knife-solo
+	url = git@github.com:matschaffer/knife-solo.git
+[submodule "vagrant"]
+	path = vagrant
+	url = git@github.com:mitchellh/vagrant.git
+[submodule "kitchen-docker"]
+	path = kitchen-docker
+	url = git@github.com:portertech/kitchen-docker.git
+[submodule "buff-config"]
+	path = buff-config
+	url = git@github.com:reset/buff-config.git
+[submodule "rspec-expectations"]
+	path = rspec-expectations
+	url = git@github.com:rspec/rspec-expectations.git
+[submodule "kitchen-vagrant"]
+	path = kitchen-vagrant
+	url = git@github.com:test-kitchen/kitchen-vagrant.git
