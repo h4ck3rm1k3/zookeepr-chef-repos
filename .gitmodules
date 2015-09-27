@@ -175,9 +175,6 @@
 [submodule "knife-solo"]
 	path = knife-solo
 	url = git@github.com:matschaffer/knife-solo.git
-[submodule "vagrant"]
-	path = vagrant
-	url = git@github.com:mitchellh/vagrant.git
 [submodule "kitchen-docker"]
 	path = kitchen-docker
 	url = git@github.com:portertech/kitchen-docker.git
