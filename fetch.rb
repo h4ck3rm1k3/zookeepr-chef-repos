@@ -67,6 +67,7 @@ git@github.com:mitchellh/vagrant.git
 git@github.com:portertech/kitchen-docker.git
 git@github.com:reset/buff-config.git
 git@github.com:rspec/rspec-expectations.git
+git@github.com:bundler/bundler.git
 git@github.com:test-kitchen/kitchen-vagrant.git}
 
 require 'uri/ssh_git'

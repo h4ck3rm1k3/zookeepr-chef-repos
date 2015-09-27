@@ -190,3 +190,6 @@
 [submodule "kitchen-vagrant"]
 	path = kitchen-vagrant
 	url = git@github.com:test-kitchen/kitchen-vagrant.git
+[submodule "bundler"]
+	path = bundler
+	url = git@github.com:h4ck3rm1k3/bundler.git
