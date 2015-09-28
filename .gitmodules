@@ -193,3 +193,15 @@
 [submodule "vagrant"]
 	path = vagrant
 	url = git@github.com:h4ck3rm1k3/vagrant.git
+[submodule "chef-zero"]
+	path = chef-zero
+	url = git@github.com:h4ck3rm1k3/chef-zero.git
+[submodule "ridley"]
+	path = ridley
+	url = git@github.com:reset/ridley.git
+[submodule "faraday"]
+	path = faraday
+	url = git@github.com:lostisland/faraday.git
+[submodule "faraday_middleware"]
+	path = faraday_middleware
+	url = git@github.com:h4ck3rm1k3/faraday_middleware.git
