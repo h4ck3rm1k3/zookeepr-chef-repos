@@ -114,76 +114,76 @@
 	url = git@github.com:h4ck3rm1k3/rubygems.git
 [submodule "rspec-core"]
 	path = rspec-core
-	url = git@github.com:rspec/rspec-core.git
+	url = git@github.com:h4ck3rm1k3/rspec-core.git
 [submodule "rspec-mocks"]
 	path = rspec-mocks
-	url = git@github.com:rspec/rspec-mocks.git
+	url = git@github.com:h4ck3rm1k3/rspec-mocks.git
 [submodule "rspec-support"]
 	path = rspec-support
-	url = git@github.com:rspec/rspec-support.git
+	url = git@github.com:h4ck3rm1k3/rspec-support.git
 [submodule "rspec"]
 	path = rspec
-	url = git@github.com:rspec/rspec.git
+	url = git@github.com:h4ck3rm1k3/rspec.git
 [submodule "hammertime"]
 	path = hammertime
-	url = git@github.com:avdi/hammertime.git
+	url = git@github.com:h4ck3rm1k3/hammertime.git
 [submodule "chef-provisioning-aws"]
 	path = chef-provisioning-aws
-	url = git@github.com:chef/chef-provisioning-aws.git
+	url = git@github.com:h4ck3rm1k3/chef-provisioning-aws.git
 [submodule "chef-provisioning"]
 	path = chef-provisioning
-	url = git@github.com:chef/chef-provisioning.git
+	url = git@github.com:h4ck3rm1k3/chef-provisioning.git
 [submodule "chef-server"]
 	path = chef-server
-	url = git@github.com:chef/chef-server.git
+	url = git@github.com:h4ck3rm1k3/chef-server.git
 [submodule "dep-selector-libgecode"]
 	path = dep-selector-libgecode
-	url = git@github.com:chef/dep-selector-libgecode.git
+	url = git@github.com:h4ck3rm1k3/dep-selector-libgecode.git
 [submodule "knife-ec2"]
 	path = knife-ec2
-	url = git@github.com:chef/knife-ec2.git
+	url = git@github.com:h4ck3rm1k3/knife-ec2.git
 [submodule "mixlib-config"]
 	path = mixlib-config
-	url = git@github.com:chef/mixlib-config.git
+	url = git@github.com:h4ck3rm1k3/mixlib-config.git
 [submodule "ohai"]
 	path = ohai
-	url = git@github.com:chef/ohai.git
+	url = git@github.com:h4ck3rm1k3/ohai.git
 [submodule "omnibus"]
 	path = omnibus
-	url = git@github.com:chef/omnibus.git
+	url = git@github.com:h4ck3rm1k3/omnibus.git
 [submodule "flaskapp"]
 	path = flaskapp
-	url = git@github.com:evandhoffman/flaskapp.git
+	url = git@github.com:h4ck3rm1k3/flaskapp.git
 [submodule "ffi"]
 	path = ffi
-	url = git@github.com:ffi/ffi.git
+	url = git@github.com:h4ck3rm1k3/ffi.git
 [submodule "knife-server"]
 	path = knife-server
-	url = git@github.com:fnichol/knife-server.git
+	url = git@github.com:h4ck3rm1k3/knife-server.git
 [submodule "fog-aws"]
 	path = fog-aws
-	url = git@github.com:fog/fog-aws.git
+	url = git@github.com:h4ck3rm1k3/fog-aws.git
 [submodule "knife-vagrant"]
 	path = knife-vagrant
-	url = git@github.com:garrettux/knife-vagrant.git
+	url = git@github.com:h4ck3rm1k3/knife-vagrant.git
 [submodule "knife-zero"]
 	path = knife-zero
-	url = git@github.com:higanworks/knife-zero.git
+	url = git@github.com:h4ck3rm1k3/knife-zero.git
 [submodule "yajl"]
 	path = yajl
-	url = git@github.com:lloyd/yajl.git
+	url = git@github.com:h4ck3rm1k3/yajl.git
 [submodule "knife-solo"]
 	path = knife-solo
-	url = git@github.com:matschaffer/knife-solo.git
+	url = git@github.com:h4ck3rm1k3/knife-solo.git
 [submodule "kitchen-docker"]
 	path = kitchen-docker
-	url = git@github.com:portertech/kitchen-docker.git
+	url = git@github.com:h4ck3rm1k3/kitchen-docker.git
 [submodule "buff-config"]
 	path = buff-config
-	url = git@github.com:reset/buff-config.git
+	url = git@github.com:h4ck3rm1k3/buff-config.git
 [submodule "rspec-expectations"]
 	path = rspec-expectations
-	url = git@github.com:rspec/rspec-expectations.git
+	url = git@github.com:h4ck3rm1k3/rspec-expectations.git
 [submodule "kitchen-vagrant"]
 	path = kitchen-vagrant
 	url = git@github.com:test-kitchen/kitchen-vagrant.git
@@ -198,10 +198,10 @@
 	url = git@github.com:h4ck3rm1k3/chef-zero.git
 [submodule "ridley"]
 	path = ridley
-	url = git@github.com:reset/ridley.git
+	url = git@github.com:h4ck3rm1k3/ridley.git
 [submodule "faraday"]
 	path = faraday
-	url = git@github.com:lostisland/faraday.git
+	url = git@github.com:h4ck3rm1k3/faraday.git
 [submodule "faraday_middleware"]
 	path = faraday_middleware
 	url = git@github.com:h4ck3rm1k3/faraday_middleware.git
