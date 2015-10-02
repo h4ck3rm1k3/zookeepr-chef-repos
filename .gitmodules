@@ -1,207 +1,204 @@
-[submodule "git@github.com:h4ck3rm1k3/application.git"]
-	path = git@github.com:h4ck3rm1k3/application.git
-	url = ./application
 [submodule "application"]
 	path = application
-	url = git@github.com:h4ck3rm1k3/application.git
+	url = https://github.com/h4ck3rm1k3/application.git
 [submodule "application_git"]
 	path = application_git
-	url = git@github.com:h4ck3rm1k3/application_git.git
+	url = https://github.com/h4ck3rm1k3/application_git.git
 [submodule "application_python"]
 	path = application_python
-	url = git@github.com:h4ck3rm1k3/application_python.git
+	url = https://github.com/h4ck3rm1k3/application_python.git
 [submodule "apt"]
 	path = apt
-	url = git@github.com:h4ck3rm1k3/apt.git
+	url = https://github.com/h4ck3rm1k3/apt.git
 [submodule "chef-sugar"]
 	path = chef-sugar
-	url = git@github.com:h4ck3rm1k3/chef-sugar.git
+	url = https://github.com/h4ck3rm1k3/chef-sugar.git
 [submodule "database"]
 	path = database
-	url = git@github.com:h4ck3rm1k3/database.git
+	url = https://github.com/h4ck3rm1k3/database.git
 [submodule "openssl"]
 	path = openssl
-	url = git@github.com:h4ck3rm1k3/openssl.git
+	url = https://github.com/h4ck3rm1k3/openssl.git
 [submodule "poise"]
 	path = poise
-	url = git@github.com:h4ck3rm1k3/poise.git
+	url = https://github.com/h4ck3rm1k3/poise.git
 [submodule "poise-boiler"]
 	path = poise-boiler
-	url = git@github.com:h4ck3rm1k3/poise-boiler.git
+	url = https://github.com/h4ck3rm1k3/poise-boiler.git
 [submodule "poise-languages"]
 	path = poise-languages
-	url = git@github.com:h4ck3rm1k3/poise-languages.git
+	url = https://github.com/h4ck3rm1k3/poise-languages.git
 [submodule "poise-python"]
 	path = poise-python
-	url = git@github.com:h4ck3rm1k3/poise-python.git
+	url = https://github.com/h4ck3rm1k3/poise-python.git
 [submodule "poise-service"]
 	path = poise-service
-	url = git@github.com:h4ck3rm1k3/poise-service.git
+	url = https://github.com/h4ck3rm1k3/poise-service.git
 [submodule "postgresql"]
 	path = postgresql
-	url = git@github.com:h4ck3rm1k3/postgresql.git
+	url = https://github.com/h4ck3rm1k3/postgresql.git
 [submodule "build-essential"]
 	path = build-essential
-	url = git@github.com:h4ck3rm1k3/build-essential.git
+	url = https://github.com/h4ck3rm1k3/build-essential.git
 [submodule "chef_handler"]
 	path = chef_handler
-	url = git@github.com:h4ck3rm1k3/chef_handler.git
+	url = https://github.com/h4ck3rm1k3/chef_handler.git
 [submodule "git"]
 	path = git
-	url = git@github.com:h4ck3rm1k3/git.git
+	url = https://github.com/h4ck3rm1k3/git.git
 [submodule "gunicorn"]
 	path = gunicorn
-	url = git@github.com:h4ck3rm1k3/gunicorn.git
+	url = https://github.com/h4ck3rm1k3/gunicorn.git
 [submodule "python"]
 	path = python
-	url = git@github.com:h4ck3rm1k3/python
+	url = https://github.com/h4ck3rm1k3/python
 [submodule "rbac"]
 	path = rbac
-	url = git@github.com:h4ck3rm1k3/rbac
+	url = https://github.com/h4ck3rm1k3/rbac
 [submodule "resource-control"]
 	path = resource-control
-	url = git@github.com:h4ck3rm1k3/resource-control
+	url = https://github.com/h4ck3rm1k3/resource-control
 [submodule "smf"]
 	path = smf
-	url = git@github.com:h4ck3rm1k3/smf
+	url = https://github.com/h4ck3rm1k3/smf
 [submodule "supervisor"]
 	path = supervisor
-	url = git@github.com:h4ck3rm1k3/supervisor
+	url = https://github.com/h4ck3rm1k3/supervisor
 [submodule "yum-epel"]
 	path = yum-epel
-	url = git@github.com:h4ck3rm1k3/yum-epel
+	url = https://github.com/h4ck3rm1k3/yum-epel
 [submodule "ipaddr_extensions"]
 	path = ipaddr_extensions
-	url = git@github.com:h4ck3rm1k3/ipaddr_extensions.git
+	url = https://github.com/h4ck3rm1k3/ipaddr_extensions.git
 [submodule "paths"]
 	path = paths
-	url = git@github.com:h4ck3rm1k3/paths.git
+	url = https://github.com/h4ck3rm1k3/paths.git
 [submodule "yum"]
 	path = yum
-	url = git@github.com:h4ck3rm1k3/yum.git
+	url = https://github.com/h4ck3rm1k3/yum.git
 [submodule "berkshelf"]
 	path = berkshelf
-	url = git@github.com:h4ck3rm1k3/berkshelf.git
+	url = https://github.com/h4ck3rm1k3/berkshelf.git
 [submodule "chef"]
 	path = chef
-	url = git@github.com:h4ck3rm1k3/chef.git
+	url = https://github.com/h4ck3rm1k3/chef.git
 [submodule "chefspec"]
 	path = chefspec
-	url = git@github.com:h4ck3rm1k3/chefspec.git
+	url = https://github.com/h4ck3rm1k3/chefspec.git
 [submodule "dep-selector"]
 	path = dep-selector
-	url = git@github.com:h4ck3rm1k3/dep-selector.git
+	url = https://github.com/h4ck3rm1k3/dep-selector.git
 [submodule "ffi-yajl"]
 	path = ffi-yajl
-	url = git@github.com:h4ck3rm1k3/ffi-yajl.git
+	url = https://github.com/h4ck3rm1k3/ffi-yajl.git
 [submodule "halite-2"]
 	path = halite-2
-	url = git@github.com:h4ck3rm1k3/halite-2.git
+	url = https://github.com/h4ck3rm1k3/halite-2.git
 [submodule "knife-github-cookbooks"]
 	path = knife-github-cookbooks
-	url = git@github.com:h4ck3rm1k3/knife-github-cookbooks.git
+	url = https://github.com/h4ck3rm1k3/knife-github-cookbooks.git
 [submodule "knife-spec"]
 	path = knife-spec
-	url = git@github.com:h4ck3rm1k3/knife-spec.git
+	url = https://github.com/h4ck3rm1k3/knife-spec.git
 [submodule "knife-vagrant2"]
 	path = knife-vagrant2
-	url = git@github.com:h4ck3rm1k3/knife-vagrant2.git
+	url = https://github.com/h4ck3rm1k3/knife-vagrant2.git
 [submodule "rabbitmq-formula"]
 	path = rabbitmq-formula
-	url = git@github.com:h4ck3rm1k3/rabbitmq-formula.git
+	url = https://github.com/h4ck3rm1k3/rabbitmq-formula.git
 [submodule "rubygems"]
 	path = rubygems
-	url = git@github.com:h4ck3rm1k3/rubygems.git
+	url = https://github.com/h4ck3rm1k3/rubygems.git
 [submodule "rspec-core"]
 	path = rspec-core
-	url = git@github.com:h4ck3rm1k3/rspec-core.git
+	url = https://github.com/h4ck3rm1k3/rspec-core.git
 [submodule "rspec-mocks"]
 	path = rspec-mocks
-	url = git@github.com:h4ck3rm1k3/rspec-mocks.git
+	url = https://github.com/h4ck3rm1k3/rspec-mocks.git
 [submodule "rspec-support"]
 	path = rspec-support
-	url = git@github.com:h4ck3rm1k3/rspec-support.git
+	url = https://github.com/h4ck3rm1k3/rspec-support.git
 [submodule "rspec"]
 	path = rspec
-	url = git@github.com:h4ck3rm1k3/rspec.git
+	url = https://github.com/h4ck3rm1k3/rspec.git
 [submodule "hammertime"]
 	path = hammertime
-	url = git@github.com:h4ck3rm1k3/hammertime.git
+	url = https://github.com/h4ck3rm1k3/hammertime.git
 [submodule "chef-provisioning-aws"]
 	path = chef-provisioning-aws
-	url = git@github.com:h4ck3rm1k3/chef-provisioning-aws.git
+	url = https://github.com/h4ck3rm1k3/chef-provisioning-aws.git
 [submodule "chef-provisioning"]
 	path = chef-provisioning
-	url = git@github.com:h4ck3rm1k3/chef-provisioning.git
+	url = https://github.com/h4ck3rm1k3/chef-provisioning.git
 [submodule "chef-server"]
 	path = chef-server
-	url = git@github.com:h4ck3rm1k3/chef-server.git
+	url = https://github.com/h4ck3rm1k3/chef-server.git
 [submodule "dep-selector-libgecode"]
 	path = dep-selector-libgecode
-	url = git@github.com:h4ck3rm1k3/dep-selector-libgecode.git
+	url = https://github.com/h4ck3rm1k3/dep-selector-libgecode.git
 [submodule "knife-ec2"]
 	path = knife-ec2
-	url = git@github.com:h4ck3rm1k3/knife-ec2.git
+	url = https://github.com/h4ck3rm1k3/knife-ec2.git
 [submodule "mixlib-config"]
 	path = mixlib-config
-	url = git@github.com:h4ck3rm1k3/mixlib-config.git
+	url = https://github.com/h4ck3rm1k3/mixlib-config.git
 [submodule "ohai"]
 	path = ohai
-	url = git@github.com:h4ck3rm1k3/ohai.git
+	url = https://github.com/h4ck3rm1k3/ohai.git
 [submodule "omnibus"]
 	path = omnibus
-	url = git@github.com:h4ck3rm1k3/omnibus.git
+	url = https://github.com/h4ck3rm1k3/omnibus.git
 [submodule "flaskapp"]
 	path = flaskapp
-	url = git@github.com:h4ck3rm1k3/flaskapp.git
+	url = https://github.com/h4ck3rm1k3/flaskapp.git
 [submodule "ffi"]
 	path = ffi
-	url = git@github.com:h4ck3rm1k3/ffi.git
+	url = https://github.com/h4ck3rm1k3/ffi.git
 [submodule "knife-server"]
 	path = knife-server
-	url = git@github.com:h4ck3rm1k3/knife-server.git
+	url = https://github.com/h4ck3rm1k3/knife-server.git
 [submodule "fog-aws"]
 	path = fog-aws
-	url = git@github.com:h4ck3rm1k3/fog-aws.git
+	url = https://github.com/h4ck3rm1k3/fog-aws.git
 [submodule "knife-vagrant"]
 	path = knife-vagrant
-	url = git@github.com:h4ck3rm1k3/knife-vagrant.git
+	url = https://github.com/h4ck3rm1k3/knife-vagrant.git
 [submodule "knife-zero"]
 	path = knife-zero
-	url = git@github.com:h4ck3rm1k3/knife-zero.git
+	url = https://github.com/h4ck3rm1k3/knife-zero.git
 [submodule "yajl"]
 	path = yajl
-	url = git@github.com:h4ck3rm1k3/yajl.git
+	url = https://github.com/h4ck3rm1k3/yajl.git
 [submodule "knife-solo"]
 	path = knife-solo
-	url = git@github.com:h4ck3rm1k3/knife-solo.git
+	url = https://github.com/h4ck3rm1k3/knife-solo.git
 [submodule "kitchen-docker"]
 	path = kitchen-docker
-	url = git@github.com:h4ck3rm1k3/kitchen-docker.git
+	url = https://github.com/h4ck3rm1k3/kitchen-docker.git
 [submodule "buff-config"]
 	path = buff-config
-	url = git@github.com:h4ck3rm1k3/buff-config.git
+	url = https://github.com/h4ck3rm1k3/buff-config.git
 [submodule "rspec-expectations"]
 	path = rspec-expectations
-	url = git@github.com:h4ck3rm1k3/rspec-expectations.git
+	url = https://github.com/h4ck3rm1k3/rspec-expectations.git
 [submodule "kitchen-vagrant"]
 	path = kitchen-vagrant
-	url = git@github.com:test-kitchen/kitchen-vagrant.git
+	url = https://github.com/h4ck3rm1k3/kitchen-vagrant.git
 [submodule "bundler"]
 	path = bundler
-	url = git@github.com:h4ck3rm1k3/bundler.git
+	url = https://github.com/h4ck3rm1k3/bundler.git
 [submodule "vagrant"]
 	path = vagrant
-	url = git@github.com:h4ck3rm1k3/vagrant.git
+	url = https://github.com/h4ck3rm1k3/vagrant.git
 [submodule "chef-zero"]
 	path = chef-zero
-	url = git@github.com:h4ck3rm1k3/chef-zero.git
+	url = https://github.com/h4ck3rm1k3/chef-zero.git
 [submodule "ridley"]
 	path = ridley
-	url = git@github.com:h4ck3rm1k3/ridley.git
+	url = https://github.com/h4ck3rm1k3/ridley.git
 [submodule "faraday"]
 	path = faraday
-	url = git@github.com:h4ck3rm1k3/faraday.git
+	url = https://github.com/h4ck3rm1k3/faraday.git
 [submodule "faraday_middleware"]
 	path = faraday_middleware
-	url = git@github.com:h4ck3rm1k3/faraday_middleware.git
+	url = https://github.com/h4ck3rm1k3/faraday_middleware.git
