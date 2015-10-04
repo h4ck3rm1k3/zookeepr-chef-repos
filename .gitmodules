@@ -202,3 +202,6 @@
 [submodule "faraday_middleware"]
 	path = faraday_middleware
 	url = https://github.com/h4ck3rm1k3/faraday_middleware.git
+[submodule "zookeepr"]
+	path = zookeepr
+	url = https://github.com/h4ck3rm1k3/zookeepr-chef-recipe.git
