@@ -205,3 +205,6 @@
 [submodule "zookeepr"]
 	path = zookeepr
 	url = https://github.com/h4ck3rm1k3/zookeepr-chef-recipe.git
+[submodule "resource"]
+	path = resource
+	url = git@github.com:h4ck3rm1k3/resource.git
